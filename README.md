@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT/hub/article-preview-component-html-css-js-vanilla-Ca0u9GR4x](https://your-solution-url.com)
 - Live Site URL: [https://arevalosebastian.github.io/article-preview-component-master/myproject/#]
 
 ## My process
