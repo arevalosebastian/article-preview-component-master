@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://arevalosebastian.github.io/article-preview-component-master/myproject/#]
 
 ## My process
 
@@ -53,8 +53,8 @@ I want to focus on more CSS because I've had a lot of problems with overflows du
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/arevalosebastian)
+- Frontend Mentor - [https://www.frontendmentor.io/profile/arevalosebastian](https://www.frontendmentor.io/profile/arevalosebastian)
 
 ## Acknowledgments
 
-I'm learning with Dorian Desings (https://www.facebook.com/yoaprendocondorian/?ref=page_internal) all my gratitude to him.
+I'm learning with Dorian Desings [https://www.facebook.com/yoaprendocondorian/?ref=page_internal] all my gratitude to him.
