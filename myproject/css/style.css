@@ -116,6 +116,7 @@ body{
     display: flex;
     align-items: center;
     left: 0px;
+    top: 30px;
     padding: 20px 25px;
     width: 86%;
     border-bottom-left-radius: 20px;
